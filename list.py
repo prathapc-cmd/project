@@ -8,7 +8,7 @@ print(list1)
 print(type(list1))
 list1.append("orange") #changing the list
 print(list1)
-list1.append("mango") #allow duplicate
+list1.append("mango") #list allow duplicate
 print(list1)
 list1.remove("apple") # removing the iten
 print(list1)
