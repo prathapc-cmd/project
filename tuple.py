@@ -18,6 +18,7 @@ print(tuple2)
 (a,b,c,d) = tuple1
 print(b)
 print(d)
+print(c)
 
 
 
