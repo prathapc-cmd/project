@@ -1,4 +1,4 @@
-#ordered,unchangeable, allow duplicate
+#ordered,unchangeable,it will allow duplicate
 
 tuple1 = ('banana',1,2,"apple")
 

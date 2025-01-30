@@ -8,7 +8,7 @@ print(type(set1))
 
 print(len(set1))
 
-#add
+#add new value
 set1.add("kiwi")
 print(set1)
 set1.update(set2)
